@@ -1,0 +1,15 @@
+body {
+	margin: 0;
+}
+
+.main img {
+	width: 300px;
+	height: 300px;
+}
+.socials a {
+	display: inline;
+}
+.socials a img {
+	height: 20px;
+	width: 22px;
+}

@@ -95,6 +95,9 @@ footer p {
 	background-position: center;
 	background-repeat: no-repeat;
 }
+#extra {
+	display: none;
+}
 /* Overlay used on the city cards */
 .overlay a {
 	color: white;
